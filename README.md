@@ -1,5 +1,5 @@
 # codsoft-projects
-It includes a portfolio using HTML,CSS,JAVASCRIPT
+
 <!DOCTYPE html>
 <html lang="en">
 
